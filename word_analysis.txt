@@ -1,0 +1,8 @@
+Sentence: my name is amna aslam
+Total Words: 5
+Total Characters: 21
+Longest Word: aslam
+Shortest Word: my
+Total Vowels: 7
+Unique Words: {'my', 'aslam', 'is', 'name', 'amna'}
+Alphabetical Order: ['amna', 'aslam', 'is', 'my', 'name']

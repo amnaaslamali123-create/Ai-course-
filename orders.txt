@@ -1,0 +1,4 @@
+===== RESTAURANT BILL =====
+Fries x 5 = Rs. 1250
+Pizza x 39 = Rs. 31200
+Final Bill: Rs. 32450
